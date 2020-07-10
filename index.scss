@@ -1,0 +1,22 @@
+$marfil: rgba(255,250,220,0.5);
+
+.titulo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+.parrafos{
+background-color: $marfil;
+margin-top: 1%;
+border-radius: 20px;
+border-style:solid;
+border-color: black;
+}
+#parrafo2{
+  margin-left: 25%;
+}
+#titulo2{
+margin-left: 65%;
+}

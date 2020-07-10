@@ -1,6 +1,20 @@
-.center{
+.titulo {
   display: block;
-   margin-left: auto;
-   margin-right: auto;
-   width: 15%;
- }
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%; }
+
+.parrafos {
+  background-color: rgba(255, 250, 220, 0.5);
+  margin-top: 1%;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: black; }
+
+#parrafo2 {
+  margin-left: 25%; }
+
+#titulo2 {
+  margin-left: 65%; }
+
+/*# sourceMappingURL=index.css.map */

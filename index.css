@@ -1,3 +1,6 @@
+body {
+  background-color: #ffffff; }
+
 .titulo {
   display: block;
   margin-left: auto;
@@ -5,10 +8,8 @@
   width: 15%; }
 
 .parrafos {
-  background-color: rgba(255, 250, 220, 0.5);
   margin-top: 1%;
   border-radius: 20px;
-  border-style: solid;
   border-color: black;
   margin-left: 1%;
   margin-right: 1%; }
@@ -17,30 +18,26 @@
   margin-bottom: 1%; }
 
 .topnav {
-  background-color: rgba(255, 250, 220, 0.5);
-  overflow: hidden;
-  margin-left: 19%;
-  margin-right: 19%;
-  margin-top: 0.5%;
-  border: 5px solid black;
-  border-radius: 20px; }
+  background-color: #2469D6;
+  overflow: hidden; }
 
 /* Change the color, and the margins to the links */
 .topnav a {
   float: left;
-  color: black;
+  color: white;
   text-align: center;
   padding: 14px 4%;
   text-decoration: none;
-  font-size: 17px; }
+  font-size: 17px;
+  margin-top: 0.5%; }
 
 .topnav a:hover {
-  background-color: #1e558c;
-  color: black; }
+  background-color: #2469D6;
+  color: #ED8B40; }
 
 /* Modify the home link */
 .topnav a.active {
-  background-color: #1e558c;
+  background-color: #2469D6;
   color: white; }
 
 @media (min-width: 600px) {

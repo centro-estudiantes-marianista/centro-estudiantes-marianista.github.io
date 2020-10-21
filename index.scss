@@ -9,28 +9,6 @@ body{
   width: 15%;
 }
 
-.divs{
-margin-top: 1%;
-border-radius: 20px;
-border-color: black;
-margin-left: 1%;
-margin-right: 1%;
-}
-.clearfix{
-    overflow: hidden;
-  }
-  #titulo1{
-  font-size: 80px;
-    margin-top:60px;
-  }
-.parrafo{
-text-align: justify;
-font-size: 20px;
-}
-#parrafo3{
-  margin-bottom: 1%;
-}
-
 .topnav {
   background-color: #2469D6;
   overflow: hidden;
@@ -55,6 +33,28 @@ font-size: 20px;
 .topnav a.active {
   background-color:#2469D6;
   color: white;
+}
+
+.divs{
+margin-top: 1%;
+border-radius: 20px;
+border-color: black;
+margin-left: 1%;
+margin-right: 1%;
+}
+.clearfix{
+    overflow: hidden;
+  }
+  #titulo1{
+  font-size: 80px;
+    margin-top:60px;
+  }
+.parrafo{
+text-align: justify;
+font-size: 20px;
+}
+#parrafo3{
+  margin-bottom: 1%;
 }
 
 @media (min-width: 600px) {
